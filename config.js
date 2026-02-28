@@ -1,5 +1,5 @@
 global.owner = ['2250100268983'] // Le Maître Absolu : THE_DARK
-global.botNumber = '2250703302555' // Ton humble servante
+global.botNumber = '2250596717956' // Ton humble servante
 global.packname = 'sakura 🌸🌸' // Ce qui apparaîtra sur tes stickers
 global.author = 'THE_DARK' // La signature du génie
 
